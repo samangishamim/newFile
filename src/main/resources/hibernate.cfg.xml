@@ -4,10 +4,10 @@
     "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
 <hibernate-configuration>
   <session-factory>
-    <property name="connection.url">jdbc:postgresql://localhost:5432/hw18_person</property>
+    <property name="connection.url">jdbc:postgresql://localhost:5432/person</property>
     <property name="connection.driver_class">org.postgresql.Driver</property>
     <property name="connection.username">postgres</property>
-    <property name="connection.password">67065018</property>
+    <property name="connection.password">shamim1379</property>
 
      <property name="hibernate.hbm2ddl.auto">update</property>
     <property name="show_sql">true</property>
