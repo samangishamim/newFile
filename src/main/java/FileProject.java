@@ -5,6 +5,6 @@ public class FileProject {
         SessionFactory factory = SessionFactorySingleton.getInstance();
         PersonRepository repository = new PersonRepository();
         PersonService personService = new PersonService(factory, repository);
-        personService.writeToDB("textFiles/people.txt");
+        personService.saveToDataBase("textFiles/people.txt");
     }
 }

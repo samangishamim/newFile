@@ -43,7 +43,7 @@ public class PersonService {
         return lines;
     }
 
-    public void writeToDB(String path) {
+    public void saveToDataBase(String path) {
         List<String> lines = readFile(path);
         for (int i = 0; i < lines.size(); i += 4) {
             String firstName = lines.get(i).substring(lines.get(i).indexOf(":") + 1).trim();
