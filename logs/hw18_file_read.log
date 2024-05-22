@@ -1,0 +1,174 @@
+2024-05-19 14:16:59 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-19 14:16:59 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-05-19 14:16:59 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-05-19 14:16:59 INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2024-05-19 14:16:59 INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://localhost:5432/hw18_person]
+2024-05-19 14:16:59 INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2024-05-19 14:16:59 INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-05-19 14:16:59 INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-05-19 14:17:01 INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6f7a2a5] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-05-19 14:18:20 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-19 14:18:20 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-05-19 14:18:21 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-05-19 14:18:21 INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2024-05-19 14:18:21 INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://localhost:5432/hw18_person]
+2024-05-19 14:18:21 INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2024-05-19 14:18:21 INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-05-19 14:18:21 INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-05-19 14:18:21 INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@678a9516] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-05-19 14:19:21 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-19 14:19:21 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-05-19 14:19:21 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-05-19 14:19:21 INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2024-05-19 14:19:21 INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://localhost:5432/hw18_person]
+2024-05-19 14:19:21 INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2024-05-19 14:19:21 INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-05-19 14:19:21 INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-05-19 14:19:22 INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@421d54b3] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-05-19 14:20:27 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-19 14:20:27 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-05-19 14:20:28 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-05-19 14:20:28 INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2024-05-19 14:20:28 INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://localhost:5432/hw18_person]
+2024-05-19 14:20:28 INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2024-05-19 14:20:28 INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-05-19 14:20:28 INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-05-19 14:20:28 INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7a1a3468] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-05-19 14:20:28 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Hassan, lastName=Alavinezhad, username=alavi1349, age=54)
+2024-05-19 14:20:28 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Hassan, lastName=Alavinezhad, username=alavi1349, age=54)
+2024-05-19 14:20:28 INFO  PersonRepository - Persist new person: Person(id=1, firstName=Hassan, lastName=Alavinezhad, username=alavi1349, age=54)
+2024-05-19 14:20:28 INFO  PersonService - Person saved or updated successfully: Person(id=1, firstName=Hassan, lastName=Alavinezhad, username=alavi1349, age=54)
+2024-05-19 14:20:28 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Mohammad Reza, lastName=Ghazi, username=ghazi1999, age=24)
+2024-05-19 14:20:28 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Mohammad Reza, lastName=Ghazi, username=ghazi1999, age=24)
+2024-05-19 14:20:28 INFO  PersonRepository - Persist new person: Person(id=2, firstName=Mohammad Reza, lastName=Ghazi, username=ghazi1999, age=24)
+2024-05-19 14:20:28 INFO  PersonService - Person saved or updated successfully: Person(id=2, firstName=Mohammad Reza, lastName=Ghazi, username=ghazi1999, age=24)
+2024-05-19 14:20:28 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Amir, lastName=MohammadZadeh, username=amir2000, age=25)
+2024-05-19 14:20:28 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Amir, lastName=MohammadZadeh, username=amir2000, age=25)
+2024-05-19 14:20:28 INFO  PersonRepository - Persist new person: Person(id=3, firstName=Amir, lastName=MohammadZadeh, username=amir2000, age=25)
+2024-05-19 14:20:28 INFO  PersonService - Person saved or updated successfully: Person(id=3, firstName=Amir, lastName=MohammadZadeh, username=amir2000, age=25)
+2024-05-19 14:20:28 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Zahra, lastName=Bagheri, username=zahra1380, age=23)
+2024-05-19 14:20:28 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Zahra, lastName=Bagheri, username=zahra1380, age=23)
+2024-05-19 14:20:28 INFO  PersonRepository - Persist new person: Person(id=4, firstName=Zahra, lastName=Bagheri, username=zahra1380, age=23)
+2024-05-19 14:20:28 INFO  PersonService - Person saved or updated successfully: Person(id=4, firstName=Zahra, lastName=Bagheri, username=zahra1380, age=23)
+2024-05-19 14:20:28 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Akram, lastName=Amiri, username=akram1366, age=37)
+2024-05-19 14:20:28 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Akram, lastName=Amiri, username=akram1366, age=37)
+2024-05-19 14:20:28 INFO  PersonRepository - Persist new person: Person(id=5, firstName=Akram, lastName=Amiri, username=akram1366, age=37)
+2024-05-19 14:20:28 INFO  PersonService - Person saved or updated successfully: Person(id=5, firstName=Akram, lastName=Amiri, username=akram1366, age=37)
+2024-05-19 14:20:28 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Parisa, lastName=Darvish, username=parisa1357, age=46)
+2024-05-19 14:20:28 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Parisa, lastName=Darvish, username=parisa1357, age=46)
+2024-05-19 14:20:28 INFO  PersonRepository - Persist new person: Person(id=6, firstName=Parisa, lastName=Darvish, username=parisa1357, age=46)
+2024-05-19 14:20:28 INFO  PersonService - Person saved or updated successfully: Person(id=6, firstName=Parisa, lastName=Darvish, username=parisa1357, age=46)
+2024-05-19 14:20:28 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Naghi, lastName=Mamoli, username=naghi1355, age=48)
+2024-05-19 14:20:28 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Naghi, lastName=Mamoli, username=naghi1355, age=48)
+2024-05-19 14:20:28 INFO  PersonRepository - Persist new person: Person(id=7, firstName=Naghi, lastName=Mamoli, username=naghi1355, age=48)
+2024-05-19 14:20:28 INFO  PersonService - Person saved or updated successfully: Person(id=7, firstName=Naghi, lastName=Mamoli, username=naghi1355, age=48)
+2024-05-19 14:20:28 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Arasto, lastName=Amel, username=arasto123, age=38)
+2024-05-19 14:20:28 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Arasto, lastName=Amel, username=arasto123, age=38)
+2024-05-19 14:20:28 INFO  PersonRepository - Persist new person: Person(id=8, firstName=Arasto, lastName=Amel, username=arasto123, age=38)
+2024-05-19 14:20:28 INFO  PersonService - Person saved or updated successfully: Person(id=8, firstName=Arasto, lastName=Amel, username=arasto123, age=38)
+2024-05-19 14:20:28 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Homa, lastName=Rosta, username=homa8967, age=72)
+2024-05-19 14:20:28 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Homa, lastName=Rosta, username=homa8967, age=72)
+2024-05-19 14:20:28 INFO  PersonRepository - Persist new person: Person(id=9, firstName=Homa, lastName=Rosta, username=homa8967, age=72)
+2024-05-19 14:20:28 INFO  PersonService - Person saved or updated successfully: Person(id=9, firstName=Homa, lastName=Rosta, username=homa8967, age=72)
+2024-05-19 14:20:28 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
+2024-05-19 14:20:28 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
+2024-05-19 14:20:28 INFO  PersonRepository - Persist new person: Person(id=10, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
+2024-05-19 14:20:28 INFO  PersonService - Person saved or updated successfully: Person(id=10, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
+2024-05-22 17:18:12 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-22 17:18:12 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-05-22 17:18:12 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-05-22 17:18:12 INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2024-05-22 17:18:12 INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://localhost:5432/hw18_person]
+2024-05-22 17:18:12 INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2024-05-22 17:18:12 INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-05-22 17:18:12 INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-05-22 17:18:13 INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@ce12fbb] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-05-22 17:18:13 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Hassan, lastName=Alavinezhad, username=alavi1349, age=54)
+2024-05-22 17:18:13 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Hassan, lastName=Alavinezhad, username=alavi1349, age=54)
+2024-05-22 17:18:14 INFO  PersonRepository - Persist new person: Person(id=11, firstName=Hassan, lastName=Alavinezhad, username=alavi1349, age=54)
+2024-05-22 17:18:14 INFO  PersonService - Person saved or updated successfully: Person(id=11, firstName=Hassan, lastName=Alavinezhad, username=alavi1349, age=54)
+2024-05-22 17:18:14 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Mohammad Reza, lastName=Ghazi, username=ghazi1999, age=24)
+2024-05-22 17:18:14 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Mohammad Reza, lastName=Ghazi, username=ghazi1999, age=24)
+2024-05-22 17:18:14 INFO  PersonRepository - Persist new person: Person(id=12, firstName=Mohammad Reza, lastName=Ghazi, username=ghazi1999, age=24)
+2024-05-22 17:18:14 INFO  PersonService - Person saved or updated successfully: Person(id=12, firstName=Mohammad Reza, lastName=Ghazi, username=ghazi1999, age=24)
+2024-05-22 17:18:14 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Amir, lastName=MohammadZadeh, username=amir2000, age=25)
+2024-05-22 17:18:14 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Amir, lastName=MohammadZadeh, username=amir2000, age=25)
+2024-05-22 17:18:14 INFO  PersonRepository - Persist new person: Person(id=13, firstName=Amir, lastName=MohammadZadeh, username=amir2000, age=25)
+2024-05-22 17:18:14 INFO  PersonService - Person saved or updated successfully: Person(id=13, firstName=Amir, lastName=MohammadZadeh, username=amir2000, age=25)
+2024-05-22 17:18:14 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Zahra, lastName=Bagheri, username=zahra1380, age=23)
+2024-05-22 17:18:14 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Zahra, lastName=Bagheri, username=zahra1380, age=23)
+2024-05-22 17:18:14 INFO  PersonRepository - Persist new person: Person(id=14, firstName=Zahra, lastName=Bagheri, username=zahra1380, age=23)
+2024-05-22 17:18:14 INFO  PersonService - Person saved or updated successfully: Person(id=14, firstName=Zahra, lastName=Bagheri, username=zahra1380, age=23)
+2024-05-22 17:18:14 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Akram, lastName=Amiri, username=akram1366, age=37)
+2024-05-22 17:18:14 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Akram, lastName=Amiri, username=akram1366, age=37)
+2024-05-22 17:18:14 INFO  PersonRepository - Persist new person: Person(id=15, firstName=Akram, lastName=Amiri, username=akram1366, age=37)
+2024-05-22 17:18:14 INFO  PersonService - Person saved or updated successfully: Person(id=15, firstName=Akram, lastName=Amiri, username=akram1366, age=37)
+2024-05-22 17:18:14 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Parisa, lastName=Darvish, username=parisa1357, age=46)
+2024-05-22 17:18:14 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Parisa, lastName=Darvish, username=parisa1357, age=46)
+2024-05-22 17:18:14 INFO  PersonRepository - Persist new person: Person(id=16, firstName=Parisa, lastName=Darvish, username=parisa1357, age=46)
+2024-05-22 17:18:14 INFO  PersonService - Person saved or updated successfully: Person(id=16, firstName=Parisa, lastName=Darvish, username=parisa1357, age=46)
+2024-05-22 17:18:14 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Naghi, lastName=Mamoli, username=naghi1355, age=48)
+2024-05-22 17:18:14 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Naghi, lastName=Mamoli, username=naghi1355, age=48)
+2024-05-22 17:18:14 INFO  PersonRepository - Persist new person: Person(id=17, firstName=Naghi, lastName=Mamoli, username=naghi1355, age=48)
+2024-05-22 17:18:14 INFO  PersonService - Person saved or updated successfully: Person(id=17, firstName=Naghi, lastName=Mamoli, username=naghi1355, age=48)
+2024-05-22 17:18:14 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Arasto, lastName=Amel, username=arasto123, age=38)
+2024-05-22 17:18:14 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Arasto, lastName=Amel, username=arasto123, age=38)
+2024-05-22 17:18:14 INFO  PersonRepository - Persist new person: Person(id=18, firstName=Arasto, lastName=Amel, username=arasto123, age=38)
+2024-05-22 17:18:14 INFO  PersonService - Person saved or updated successfully: Person(id=18, firstName=Arasto, lastName=Amel, username=arasto123, age=38)
+2024-05-22 17:18:14 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Homa, lastName=Rosta, username=homa8967, age=72)
+2024-05-22 17:18:14 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Homa, lastName=Rosta, username=homa8967, age=72)
+2024-05-22 17:18:14 INFO  PersonRepository - Persist new person: Person(id=19, firstName=Homa, lastName=Rosta, username=homa8967, age=72)
+2024-05-22 17:18:14 INFO  PersonService - Person saved or updated successfully: Person(id=19, firstName=Homa, lastName=Rosta, username=homa8967, age=72)
+2024-05-22 17:18:14 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
+2024-05-22 17:18:14 INFO  PersonRepository - Saving or updating person: Person(id=null, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
+2024-05-22 17:18:14 INFO  PersonRepository - Persist new person: Person(id=20, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
+2024-05-22 17:18:14 INFO  PersonService - Person saved or updated successfully: Person(id=20, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
+2024-05-22 23:39:38 INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.4.4.Final
+2024-05-22 23:39:39 INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-05-22 23:39:39 WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2024-05-22 23:39:39 INFO  o.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2024-05-22 23:39:39 INFO  o.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://localhost:5432/person]
+2024-05-22 23:39:39 INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=postgres}
+2024-05-22 23:39:39 INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2024-05-22 23:39:39 INFO  o.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2024-05-22 23:39:42 INFO  o.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16ee9aa7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2024-05-22 23:39:42 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Shamim, lastName=Samangi, username=shamim1234, age=10)
+2024-05-22 23:39:42 INFO  PersonRepository - Save or update the person: Person(id=null, firstName=Shamim, lastName=Samangi, username=shamim1234, age=10)
+2024-05-22 23:39:42 INFO  PersonRepository - Persist  person: Person(id=1, firstName=Shamim, lastName=Samangi, username=shamim1234, age=10)
+2024-05-22 23:39:42 INFO  PersonService - Person saved or updated successfully: Person(id=1, firstName=Shamim, lastName=Samangi, username=shamim1234, age=10)
+2024-05-22 23:39:42 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Shahin, lastName=Samangi, username=samangi1999, age=30)
+2024-05-22 23:39:42 INFO  PersonRepository - Save or update the person: Person(id=null, firstName=Shahin, lastName=Samangi, username=samangi1999, age=30)
+2024-05-22 23:39:42 INFO  PersonRepository - Persist  person: Person(id=2, firstName=Shahin, lastName=Samangi, username=samangi1999, age=30)
+2024-05-22 23:39:42 INFO  PersonService - Person saved or updated successfully: Person(id=2, firstName=Shahin, lastName=Samangi, username=samangi1999, age=30)
+2024-05-22 23:39:42 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Reyhane, lastName=Darvishian, username=Darvishian2000, age=15)
+2024-05-22 23:39:42 INFO  PersonRepository - Save or update the person: Person(id=null, firstName=Reyhane, lastName=Darvishian, username=Darvishian2000, age=15)
+2024-05-22 23:39:42 INFO  PersonRepository - Persist  person: Person(id=3, firstName=Reyhane, lastName=Darvishian, username=Darvishian2000, age=15)
+2024-05-22 23:39:42 INFO  PersonService - Person saved or updated successfully: Person(id=3, firstName=Reyhane, lastName=Darvishian, username=Darvishian2000, age=15)
+2024-05-22 23:39:42 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Nazila, lastName=Rostami, username=rostami1380, age=5)
+2024-05-22 23:39:42 INFO  PersonRepository - Save or update the person: Person(id=null, firstName=Nazila, lastName=Rostami, username=rostami1380, age=5)
+2024-05-22 23:39:42 INFO  PersonRepository - Persist  person: Person(id=4, firstName=Nazila, lastName=Rostami, username=rostami1380, age=5)
+2024-05-22 23:39:42 INFO  PersonService - Person saved or updated successfully: Person(id=4, firstName=Nazila, lastName=Rostami, username=rostami1380, age=5)
+2024-05-22 23:39:42 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Sara, lastName=Rahmani, username=rahmani1366, age=20)
+2024-05-22 23:39:42 INFO  PersonRepository - Save or update the person: Person(id=null, firstName=Sara, lastName=Rahmani, username=rahmani1366, age=20)
+2024-05-22 23:39:42 INFO  PersonRepository - Persist  person: Person(id=5, firstName=Sara, lastName=Rahmani, username=rahmani1366, age=20)
+2024-05-22 23:39:42 INFO  PersonService - Person saved or updated successfully: Person(id=5, firstName=Sara, lastName=Rahmani, username=rahmani1366, age=20)
+2024-05-22 23:39:42 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Ali, lastName=Qanbari, username=qanbari1312, age=50)
+2024-05-22 23:39:42 INFO  PersonRepository - Save or update the person: Person(id=null, firstName=Ali, lastName=Qanbari, username=qanbari1312, age=50)
+2024-05-22 23:39:42 INFO  PersonRepository - Persist  person: Person(id=6, firstName=Ali, lastName=Qanbari, username=qanbari1312, age=50)
+2024-05-22 23:39:42 INFO  PersonService - Person saved or updated successfully: Person(id=6, firstName=Ali, lastName=Qanbari, username=qanbari1312, age=50)
+2024-05-22 23:39:42 INFO  PersonService - Saving or updating person: Person(id=null, firstName=saeed, lastName=Pormohammad, username=pori1355, age=48)
+2024-05-22 23:39:42 INFO  PersonRepository - Save or update the person: Person(id=null, firstName=saeed, lastName=Pormohammad, username=pori1355, age=48)
+2024-05-22 23:39:42 INFO  PersonRepository - Persist  person: Person(id=7, firstName=saeed, lastName=Pormohammad, username=pori1355, age=48)
+2024-05-22 23:39:42 INFO  PersonService - Person saved or updated successfully: Person(id=7, firstName=saeed, lastName=Pormohammad, username=pori1355, age=48)
+2024-05-22 23:39:42 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Mozhde, lastName=Saedi, username=arasto123, age=11)
+2024-05-22 23:39:42 INFO  PersonRepository - Save or update the person: Person(id=null, firstName=Mozhde, lastName=Saedi, username=arasto123, age=11)
+2024-05-22 23:39:42 INFO  PersonRepository - Persist  person: Person(id=8, firstName=Mozhde, lastName=Saedi, username=arasto123, age=11)
+2024-05-22 23:39:42 INFO  PersonService - Person saved or updated successfully: Person(id=8, firstName=Mozhde, lastName=Saedi, username=arasto123, age=11)
+2024-05-22 23:39:42 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Karim, lastName=Pedari, username=pedari8967, age=72)
+2024-05-22 23:39:42 INFO  PersonRepository - Save or update the person: Person(id=null, firstName=Karim, lastName=Pedari, username=pedari8967, age=72)
+2024-05-22 23:39:42 INFO  PersonRepository - Persist  person: Person(id=9, firstName=Karim, lastName=Pedari, username=pedari8967, age=72)
+2024-05-22 23:39:42 INFO  PersonService - Person saved or updated successfully: Person(id=9, firstName=Karim, lastName=Pedari, username=pedari8967, age=72)
+2024-05-22 23:39:42 INFO  PersonService - Saving or updating person: Person(id=null, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
+2024-05-22 23:39:42 INFO  PersonRepository - Save or update the person: Person(id=null, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
+2024-05-22 23:39:42 INFO  PersonRepository - Persist  person: Person(id=10, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
+2024-05-22 23:39:42 INFO  PersonService - Person saved or updated successfully: Person(id=10, firstName=Javad, lastName=Razavi, username=javad1350, age=53)
